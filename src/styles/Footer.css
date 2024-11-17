@@ -1,0 +1,26 @@
+.Footer{
+    bottom: 0;
+    height: 120px;
+    width: 100vw;
+    background-color: black;
+    color: white;
+    display: flex;
+}
+.Footer>.contact{
+    height: 100%;
+    width: 50%;
+    /* background-color: aqua; */
+    padding-left: 30px;
+}
+.Footer>.social{
+    height: 100%;
+    width: 50%;
+    /* background-color: beige; */
+}
+.Footer>.social>ol{
+    list-style: none;
+    display: flex;
+}
+.Footer>.social>ol>li{
+    margin-left: 10px;
+}

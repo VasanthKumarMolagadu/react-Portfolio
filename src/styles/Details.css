@@ -1,0 +1,50 @@
+
+.Details{
+    height: 210vh;
+    width: 98vw;
+    padding-left: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Details>.projects{
+    height: 18%;
+    width: 95%;
+}
+.Details>.skills{
+    height: 52%;
+    width: 95%;
+}
+.Details>.skills>.skillContainer{
+    height: 100%;
+    width: 100%;
+}
+.Details>.skills>.skillContainer>.programming,.webtech{
+    display: flex;
+}
+.Details>.skills>.skillContainer>.programming>.java{
+    padding-right: 40px;
+    padding-left: 70px;
+}
+.Details>.skills>.skillContainer>.framework>.hibernate{
+    padding-left: 70px;
+}
+
+.Details>.skills>.skillContainer>.webtech>.html{
+    padding-right: 40px;
+    padding-left: 70px;
+}
+.Details>.skills>.skillContainer>.webtech>.css,.js{
+    padding-right: 40px;
+}
+.sql{
+    padding-left: 70px;
+}
+.Details>.certificates{
+    height: 30%;
+    width: 100%;
+}
+.Details>.certificates>iframe{
+    height: 210px;
+    width: 300px;
+    margin-right: 50px;
+    box-shadow: 0px 0px 5px black;
+}

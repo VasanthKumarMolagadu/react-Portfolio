@@ -1,0 +1,30 @@
+.HomePage>.image>img{
+    width: 200px;
+}
+.imgNAbst{
+    height: 300px;
+    width: 100%;
+    /* background-color: aqua; */
+    display: flex;
+}
+.imgNAbst>.imag{
+    height: 100%;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.imgNAbst>.imag>img{
+    width: 200px;
+    border: 2px solid black;
+    padding: 10px;
+}
+.imgNAbst>.abst{
+    height: 100%;
+    width: 40%;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.imgNAbst>.abst>#sign{
+    font-family: cursive;
+}

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio-Vasanth/static/css/main.233da0d3.css",
+    "main.js": "/React-Portfolio-Vasanth/static/js/main.aa03e013.js",
+    "static/js/453.1407b060.chunk.js": "/React-Portfolio-Vasanth/static/js/453.1407b060.chunk.js",
+    "index.html": "/React-Portfolio-Vasanth/index.html",
+    "main.233da0d3.css.map": "/React-Portfolio-Vasanth/static/css/main.233da0d3.css.map",
+    "main.aa03e013.js.map": "/React-Portfolio-Vasanth/static/js/main.aa03e013.js.map",
+    "453.1407b060.chunk.js.map": "/React-Portfolio-Vasanth/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.233da0d3.css",
+    "static/js/main.aa03e013.js"
+  ]
+}
